@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d88e58b-e6a6-48ad-bafa-8b2838f79b65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/Prova/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_10/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_10/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,20 @@
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_08" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Java_Basics_and_OOP.Java_Basics.Exercises.E_10.Main">
+    <configuration name="Java_Basics_and_OOP.Java_Basics.Exercises.E_10.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Basics_and_OOP.Java_Basics.Exercises.E_10.Main" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Basics_and_OOP.Java_Basics.Exercises.E_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Basics_and_OOP.Java_Basics.Exercises.E_12.Main" />
       <module name="Java" />
@@ -63,6 +77,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Java_Basics_and_OOP.Java_Basics.Exercises.E_10.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

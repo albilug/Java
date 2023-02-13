@@ -79,18 +79,18 @@ public class Main {
      */
     private static void exercise3() {
         System.out.println("\nExercise 3 - Test Grader:");
-        double ourTestScore = 8;
+        double ourTestScore = 9;
         double maxTestScore = 10;
         double percentTestScore = ourTestScore / maxTestScore * 100;
         boolean isTestRetry = true;
-        if (percentTestScore >= 90) {
+        if (!isTestRetry && percentTestScore >= 90) {
             System.out.println("A");
-        } else if (percentTestScore < 90 && percentTestScore >= 80) {
+        } else if (!isTestRetry && percentTestScore < 90 && percentTestScore >= 80) {
             System.out.println("B");
-        } else if (percentTestScore < 80 && percentTestScore >= 70) {
+        } else if (!isTestRetry && percentTestScore < 80 && percentTestScore >= 70) {
             System.out.println("C");
         } else {
-            if (isTestRetry) {
+            if (isTestRetry && percentTestScore>=70) {
                 System.out.println("C");
             } else {
                 if (percentTestScore < 70 && percentTestScore >=60) {
