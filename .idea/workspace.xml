@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d88e58b-e6a6-48ad-bafa-8b2838f79b65" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_14/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_14/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +40,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_15" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_14" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_13" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_12" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_11" />
-      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/Java_Basics/Exercises/E_10" />
     </key>
   </component>
   <component name="RunManager">
