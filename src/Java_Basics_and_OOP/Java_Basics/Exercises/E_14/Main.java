@@ -134,12 +134,21 @@ public class Main {
      */
     private static void exercise5() {
         System.out.println("\n ESERCIZIO 5");
-        for (int timesTableNumber = 1; timesTableNumber <= 10; timesTableNumber++) {
+        for (int timesTableNumber = 1; timesTableNumber <= 10; timesTableNumber++)
+        {
+            System.out.println("\nTabellina del numero " + timesTableNumber);
+            for (int i = 1; i <= 10; i++) {
+                System.out.println(timesTableNumber * i);
+            }
+        }
+        /** ORIGINARIAMENTE HO FATTO COSì, ma è poco elegante.
+         for (int timesTableNumber = 1; timesTableNumber <= 10; timesTableNumber++)
+         {
             System.out.println(timesTableNumber);
             for (int i = timesTableNumber*2; i <= timesTableNumber*10; i = i + timesTableNumber) {
                 System.out.println(i);
             }
-            }// Your fori loop here
+         }// Your fori loop here
+        **/
     }
 }
-// PROBABILMENTE ESISTE UN MODO MIGLIORE...
