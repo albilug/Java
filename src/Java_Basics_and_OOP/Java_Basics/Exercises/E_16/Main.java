@@ -21,14 +21,14 @@ public class Main {
     private static void exercise1() {
         System.out.println("Exercise 1:");
         // Put this into a function
-        double celsius = 30;
-        double fahrenheit = celsiusToFahrenheitConversion(celsius);
-        String conversionDescription = celsius + " Celsius is " + fahrenheit + " fahrenheit";
+        //double celsius = 30;
         // End
-        System.out.println(conversionDescription);
+        System.out.println(celsiusToFahrenheitConversion(10));
     }
-    static double celsiusToFahrenheitConversion(double celsius) {
-        return ((celsius * 9) / 5) + 32;
+    static String celsiusToFahrenheitConversion(double celsius) {
+        double fahrenheit = ((celsius * 9) / 5) + 32;
+        String conversionDescription = celsius + " Celsius is " + fahrenheit + " fahrenheit";
+        return conversionDescription;
     }
 
     /**
