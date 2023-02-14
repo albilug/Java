@@ -21,9 +21,9 @@ public class Main {
     private static void exercise1() {
         System.out.println("Exercise 1:");
         // Put this into a function
-        //double celsius = 30;
+        double celsius = 30;
         // End
-        System.out.println(celsiusToFahrenheitConversion(10));
+        System.out.println(celsiusToFahrenheitConversion(celsius));
     }
     static String celsiusToFahrenheitConversion(double celsius) {
         double fahrenheit = ((celsius * 9) / 5) + 32;
