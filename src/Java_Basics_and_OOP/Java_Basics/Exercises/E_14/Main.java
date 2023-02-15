@@ -74,16 +74,14 @@ public class Main {
         for (Integer itemLuppato : items) {
             if (itemLuppato > maxNumber) {
                 maxNumber = itemLuppato;
-                System.out.println(maxNumber);
-        }
+            }
             if (itemLuppato < minNumber) {
                 minNumber = itemLuppato;
-                System.out.println(minNumber);
             }
-
-
         // Write code here
-    }
+        }
+        System.out.println(maxNumber);
+        System.out.println(minNumber);
     }
 
     /**
