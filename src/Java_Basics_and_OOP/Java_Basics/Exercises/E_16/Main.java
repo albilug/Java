@@ -69,18 +69,12 @@ public class Main {
         String description = "Nice big sandwich";
         int weightInGrams = 500;
 
-        stampaVariabili();
+        stampaVariabili(myLunchPrice, lunchType, description, weightInGrams);
         // Call your function
     }
-    static void stampaVariabili() { //C'È MODO DI ITERARE TRA VARIABILI, INVECE DI SOUT(SINGOLA VARIABILE)?
-        double myLunchPrice = 5.99; //ALTERNATIVA AL RIDICHIARARLE IN FUNZIONE?
-        String lunchType = "sandwich";
-        String description = "Nice big sandwich";
-        int weightInGrams = 500;
+    static void stampaVariabili(double myLunchPrice, String lunchType, String description, int weightInGrams) {
+        System.out.println("myLunchPrice = " + myLunchPrice + "\nlunchType = " + lunchType +
+                "\ndescription = " + description + "\nweightInGrams = " + weightInGrams);
 
-        System.out.println(myLunchPrice);
-        System.out.println(lunchType);
-        System.out.println(description);
-        System.out.println(weightInGrams);
     }
 }
