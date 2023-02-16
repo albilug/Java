@@ -63,12 +63,12 @@ public class Main {
      */
     private static void exercise3() {
         System.out.println("\nExercise 3:");
-        /**
-         * double myLunchPrice = 5.99; //SE LE DICHIARO IN FUNZIONE, PERCHÈ DICHIARARLE QUI?
+
+        double myLunchPrice = 5.99; //SE LE DICHIARO IN FUNZIONE, PERCHÈ DICHIARARLE QUI?
         String lunchType = "sandwich";
         String description = "Nice big sandwich";
         int weightInGrams = 500;
-         **/
+
         stampaVariabili();
         // Call your function
     }
