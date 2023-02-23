@@ -1,10 +1,10 @@
-package Java_Basics_and_OOP.OOP.OOP_1;
+package Java_Basics_and_OOP.OOP.OOP_1_Classi;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import static Java_Basics_and_OOP.OOP.OOP_1.Course.staticAverageCourseAge;
+import static Java_Basics_and_OOP.OOP.OOP_1_Classi.Course.staticAverageCourseAge;
 
 public class Exercises {
     public static void main(String[] args) {

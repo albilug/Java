@@ -1,4 +1,4 @@
-package Java_Basics_and_OOP.OOP.OOP_1;
+package Java_Basics_and_OOP.OOP.OOP_1_Classi;
 
 import java.util.List;
 
