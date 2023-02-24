@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d88e58b-e6a6-48ad-bafa-8b2838f79b65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_2_Constructors/Exercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_2_Constructors/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_1/Course.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_1/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_1/Exercises.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_1/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_1/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva/Exercises_Prova.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +44,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3_Encapsulation" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_1_Classi_Prova" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/Constructors_PROVA" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3" />
-      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_2" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Java_Basics_and_OOP.PROVE.OOP_3_EncapsulationProva" />
       <recent name="Java_Basics_and_OOP.PROVE" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java_Basics_and_OOP.PROVE.OOP_3_EncapsulationProva" />
       <recent name="Java_Basics_and_OOP.OOP.OOP_3" />
     </key>
   </component>
