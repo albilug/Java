@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d88e58b-e6a6-48ad-bafa-8b2838f79b65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_4_Scope_modifiers_final/ExerciseLunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_4_Scope_modifiers_final/Exercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva/Exercises_Prova.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,22 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/alberto/Desktop/Develhope/Java/src/Java_Basics_and_OOP/OOP/OOP_3",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_4_Scope_modifiers_final" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3_Encapsulation" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_1_Classi_Prova" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/Constructors_PROVA" />
-      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Java_Basics_and_OOP.OOP.OOP_4_Scope_modifiers_final" />
       <recent name="Java_Basics_and_OOP.PROVE.OOP_3_EncapsulationProva" />
       <recent name="Java_Basics_and_OOP.PROVE" />
     </key>
