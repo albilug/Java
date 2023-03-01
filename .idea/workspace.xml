@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d88e58b-e6a6-48ad-bafa-8b2838f79b65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_4_Scope_modifiers_final/ExerciseLunch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_4_Scope_modifiers_final/Exercises.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva/Exercises_Prova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PROVE/OOP_3_EncapsulationProva/Exercises_Prova.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PROVE/OOP_3_EncapsulationProva/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/ScopeProvaPerMe/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PROVE/ScopeProvaPerMe/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/ScopeProvaPerMe/Prova.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PROVE/ScopeProvaPerMe/Prova.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,24 +38,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/alberto/Desktop/Develhope/Java/src/Java_Basics_and_OOP/OOP/OOP_3",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/alberto/Desktop/Develhope/Java/src/Java_Basics_and_OOP/OOP/OOP_3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Java_OOP_Advanced/E01_Sets" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_4_Scope_modifiers_final" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3_Encapsulation" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_1_Classi_Prova" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_3_EncapsulationProva" />
-      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/Constructors_PROVA" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Java_Basics_and_OOP.OOP.OOP_4_Scope_modifiers_final" />
@@ -65,7 +67,7 @@
       <recent name="Java_Basics_and_OOP.OOP.OOP_3" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.OOP_Advanced.E01_Sets.Exercises">
     <configuration name="Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Basics_and_OOP.PROVE_E_RIPROVE.OOP_1_RIPROVA.Exercises" />
       <module name="Java" />
@@ -79,8 +81,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OOP_Advanced.E01_Sets.Exercises" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP_Advanced.E01_Sets.Exercises" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP_Advanced.E01_Sets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OOP_Advanced.E01_Sets.Exercises" />
         <item itemvalue="Application.Exercises" />
       </list>
     </recent_temporary>
@@ -113,6 +129,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="2" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>

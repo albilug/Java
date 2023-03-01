@@ -1,4 +1,4 @@
-package Java_Basics_and_OOP.PROVE.OOP_3_EncapsulationProva;
+package PROVE.OOP_3_EncapsulationProva;
 
 public class Exercises_Prova {
     public static void main(String[] args) {
@@ -57,6 +57,11 @@ public class Exercises_Prova {
         System.out.println(nuovoStudento.getNumberOfChecksBuoniPasto());
 
         //Write your code here
+        String x = "Prova";
+        System.out.println(x.toUpperCase());
+        while (1>0) {}
     }
+
+
 
 }

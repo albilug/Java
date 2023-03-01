@@ -1,4 +1,4 @@
-package Java_Basics_and_OOP.PROVE.ScopeProvaPerMe;
+package PROVE.ScopeProvaPerMe;
 
 public class Prova {
     public static void main(String[] args) {

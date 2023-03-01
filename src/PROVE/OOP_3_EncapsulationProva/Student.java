@@ -1,4 +1,4 @@
-package Java_Basics_and_OOP.PROVE.OOP_3_EncapsulationProva;
+package PROVE.OOP_3_EncapsulationProva;
 
 public class Student {
     // STUDENTNAME
