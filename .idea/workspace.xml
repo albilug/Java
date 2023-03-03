@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d88e58b-e6a6-48ad-bafa-8b2838f79b65" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OOP_Advanced/E01_Sets/Exercises.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OOP_Advanced/E01_Sets/Exercises.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +48,11 @@
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/OOP_Advanced/E03_Collections" />
       <recent name="$PROJECT_DIR$/src/OOP_Advanced/E02_Maps" />
       <recent name="$PROJECT_DIR$/src/Java_OOP_Advanced/E01_Sets" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_4_Scope_modifiers_final" />
       <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/OOP/OOP_3_Encapsulation" />
-      <recent name="$PROJECT_DIR$/src/Java_Basics_and_OOP/PROVE/OOP_1_Classi_Prova" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="Java_Basics_and_OOP.OOP.OOP_4_Scope_modifiers_final" />
@@ -92,8 +93,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OOP_Advanced.E01_Sets.Exercises" />
         <item itemvalue="Application.Exercises" />
+        <item itemvalue="Application.OOP_Advanced.E01_Sets.Exercises" />
       </list>
     </recent_temporary>
   </component>

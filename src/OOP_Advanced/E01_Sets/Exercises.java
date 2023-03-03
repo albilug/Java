@@ -112,11 +112,11 @@ public class Exercises {
                 itemsContainedInBothSets.add(elementoComuneA);
             }
         }
-        for(Integer elementoComuneB : setB) { // Controprova, ma non necessaria per ragioni di insiemistica.
-            if (setA.contains(elementoComuneB)) {
-                itemsContainedInBothSets.add(elementoComuneB);
-            }
-        }
+        //for(Integer elementoComuneB : setB) { // Controprova, ma non necessaria per ragioni di insiemistica.
+        //    if (setA.contains(elementoComuneB)) {
+        //        itemsContainedInBothSets.add(elementoComuneB);
+        //    }
+        //}
         System.out.println(itemsContainedInBothSets);
         // Your code
 
@@ -134,17 +134,22 @@ public class Exercises {
     private static void exercise4() {
         Set<Integer> orderedNumbers = new TreeSet<>(); //TreeSet ordina in automatico.
         // Basterebbe scegliere quello in prima posizione
-        orderedNumbers.addAll(Set.of(5, 3, 1, 2, 4, 6, 7, 8, 9, 10));
+        orderedNumbers.addAll(Set.of(5, 3, 0, 2, 4, 6, 7, -5, 9, 10));
         // 4a. Find the min value in the TreeSet with as few loops as possible,
         //     you can use `break;` to exit the loop once you've found it!
         System.out.println(orderedNumbers);
         int min = Integer.MAX_VALUE;
+        int oldNumber = min;
         for (Integer number : orderedNumbers) {
-            if (min > number) {
-                min = number;
-            } else if (min == 1){
+            if (oldNumber < number) {
                 break;
             }
+            if (min > number) {
+                min = number;
+            }
+            oldNumber = number; //Salvo valore iterazione antecedente
+
+            System.out.println(oldNumber);
             System.out.println(min); //infatti non fa giri. Esce al primo!
         }
         // Your code
