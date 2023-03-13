@@ -2,8 +2,7 @@ package OOP_Advanced.E06_Enum;
 
 import static OOP_Advanced.E06_Enum.Exercises.Operator.calcolatore;
 import static OOP_Advanced.E06_Enum.Exercises.Seasons.getSeasonDate;
-import static OOP_Advanced.E06_Enum.Exercises.TrafficLight.RED;
-import static OOP_Advanced.E06_Enum.Exercises.TrafficLight.getNextTrafficLight;
+import static OOP_Advanced.E06_Enum.Exercises.TrafficLight.*;
 
 public class Exercises {
     public static void main(String[] args) {
@@ -78,20 +77,20 @@ public class Exercises {
      * as input and return the next state.  */
     private static void exercise3() {
         System.out.println("\nExercise 3: ");
-        System.out.println(getNextTrafficLight(RED));
+        System.out.println(getNextLight(RED));
         // Your code here
     }
 
     public enum TrafficLight {RED, YELLOW, GREEN;
-
         static TrafficLight nextLight;
-        public static TrafficLight getNextTrafficLight(TrafficLight currentLight) {
+        public static TrafficLight getNextLight(TrafficLight currentLight) {
             switch (currentLight) {
-                case GREEN: return nextLight = YELLOW;
-                case YELLOW: return nextLight = RED;
-                case RED: return nextLight = GREEN;
-                default : return nextLight;
+                case GREEN -> nextLight = YELLOW;
+                case YELLOW -> nextLight = RED;
+                case RED -> nextLight = GREEN;
+                default -> nextLight = null;
             }
+            return nextLight;
         }
     }
 
