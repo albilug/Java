@@ -1,6 +1,6 @@
 package OOP_Advanced.E09_AbstractsAndInterfaces.MusicInstruments;
 
-public class Instruments {
+public abstract class Instruments implements Playable {
     private String name;
     private String brand;
 
